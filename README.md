@@ -20,8 +20,6 @@ The length of the split list should equal the numbe of words in the text file.
 ### Step 5: 
 You can refine the count by clearing the string prior t splitting or validatting the words after splitting
 
-### Step 6: 
-
 ## PROGRAM:
 ```python
 #Developed by : HARIHARAN A
@@ -35,6 +33,7 @@ print("The number of words are in the file is ",num)
 
 ```
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/120353431/214884072-589e0ebd-b955-42c8-8dce-412283cc96fa.png)
 
 
 ## RESULT:
